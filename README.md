@@ -1,6 +1,7 @@
-## Hi there 👋
-
-- 🔭 I’m currently setting up my homelab
-- 🌱 I’m currently learning: k8s & AI/LLM
-
-![Metrics](./metrics/light.svg)
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://github.com/aedot/k8s-gitops">homelab</a> •
+    <a href="./metrics.md">metrics</a>
+  </samp>
+</p>
